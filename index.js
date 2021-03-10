@@ -114,7 +114,7 @@ client.connect(err => {
         res.send(documents)
       })
   })
-
+   
   console.log('database connected');
 
 });
